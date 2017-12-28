@@ -1,3 +1,9 @@
+set nocount on;
+go
+
+set XACT_ABORT on
+go
+
 use [tempdb]
 go
 
